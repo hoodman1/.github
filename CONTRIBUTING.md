@@ -391,4 +391,4 @@ Upon completion, the package will be signed and pushed to PyPI.
 
 ## Blocked accounts
 
-Any accounts that engaged in vandalism or bot-like behaviour in ietf-tools projects will be blocked. If your account is blocked and you want to unblock it, contact [support@ietf.org](mailto:support@ietf.org).
+Any accounts that engage in vandalism or bot-like behaviour in ietf-tools projects will be blocked. If your account is blocked and you want to unblock it, contact [tools-help@ietf.org](mailto:tools-help@ietf.org).
